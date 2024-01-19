@@ -7,7 +7,7 @@ The following factors were analyzed to predict the housing prices:
   - community-specific elements like local crime rates, location, and community density
   - individual housing features such as land size and use designation, our goal is to anticipate housing prices 
 
-The aim of the project was to provides residents in Calgary with meaningful insights, enabling them to make informed decisions regarding their home purchases.
+The aim of the project was to provide residents in Calgary with meaningful insights, enabling them to make informed decisions regarding their home purchases.
 
 The following steps were completed to create a regression model to solve this problem which is thoroughly detailed in the Final Report. 
 
