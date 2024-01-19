@@ -1,4 +1,4 @@
-#Predicting Calgary Housing Prices 
+# Predicting Calgary Housing Prices 
 
 The big data problem that this project tackled was training a machine learning model to predict the housing price in Calgary and revealing insight into the housing market in Calgary. 
 
