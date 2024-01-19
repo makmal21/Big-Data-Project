@@ -1,6 +1,13 @@
 # Predicting Calgary Housing Prices 
 
-The big data problem that this project tackled was training a machine learning model to predict the housing price in Calgary and revealing insight into the housing market in Calgary. 
+This big data project focused on forecasting assessed property values as an indicator of home sale prices in Calgary by training a machine learning model using PySpark. 
+
+The following factors were analyzed to predict the housing prices: 
+  - macro-economic conditions such as unemployment rates, average house prices, and supply-demand dynamics
+  - community-specific elements like local crime rates, location, and community density
+  - individual housing features such as land size and use designation, our goal is to anticipate housing prices 
+
+The aim of the project was to provides residents in Calgary with meaningful insights, enabling them to make informed decisions regarding their home purchases.
 
 The following steps were completed to create a regression model to solve this problem which is thoroughly detailed in the Final Report. 
 
